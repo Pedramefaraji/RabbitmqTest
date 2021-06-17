@@ -1,0 +1,16 @@
+C:\Users\PedrameFaraji\source\repos\Pedramefaraji\Rabbitmq\Rabbitmq.Producer\bin\Debug\net5.0\Rabbitmq.Producer.exe
+C:\Users\PedrameFaraji\source\repos\Pedramefaraji\Rabbitmq\Rabbitmq.Producer\bin\Debug\net5.0\Rabbitmq.Producer.deps.json
+C:\Users\PedrameFaraji\source\repos\Pedramefaraji\Rabbitmq\Rabbitmq.Producer\bin\Debug\net5.0\Rabbitmq.Producer.runtimeconfig.json
+C:\Users\PedrameFaraji\source\repos\Pedramefaraji\Rabbitmq\Rabbitmq.Producer\bin\Debug\net5.0\Rabbitmq.Producer.runtimeconfig.dev.json
+C:\Users\PedrameFaraji\source\repos\Pedramefaraji\Rabbitmq\Rabbitmq.Producer\bin\Debug\net5.0\Rabbitmq.Producer.dll
+C:\Users\PedrameFaraji\source\repos\Pedramefaraji\Rabbitmq\Rabbitmq.Producer\bin\Debug\net5.0\Rabbitmq.Producer.pdb
+C:\Users\PedrameFaraji\source\repos\Pedramefaraji\Rabbitmq\Rabbitmq.Producer\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\PedrameFaraji\source\repos\Pedramefaraji\Rabbitmq\Rabbitmq.Producer\bin\Debug\net5.0\RabbitMQ.Client.dll
+C:\Users\PedrameFaraji\source\repos\Pedramefaraji\Rabbitmq\Rabbitmq.Producer\obj\Debug\net5.0\Rabbitmq.Producer.csprojAssemblyReference.cache
+C:\Users\PedrameFaraji\source\repos\Pedramefaraji\Rabbitmq\Rabbitmq.Producer\obj\Debug\net5.0\Rabbitmq.Producer.AssemblyInfoInputs.cache
+C:\Users\PedrameFaraji\source\repos\Pedramefaraji\Rabbitmq\Rabbitmq.Producer\obj\Debug\net5.0\Rabbitmq.Producer.AssemblyInfo.cs
+C:\Users\PedrameFaraji\source\repos\Pedramefaraji\Rabbitmq\Rabbitmq.Producer\obj\Debug\net5.0\Rabbitmq.Producer.csproj.CoreCompileInputs.cache
+C:\Users\PedrameFaraji\source\repos\Pedramefaraji\Rabbitmq\Rabbitmq.Producer\obj\Debug\net5.0\Rabbitmq.Producer.csproj.CopyComplete
+C:\Users\PedrameFaraji\source\repos\Pedramefaraji\Rabbitmq\Rabbitmq.Producer\obj\Debug\net5.0\Rabbitmq.Producer.dll
+C:\Users\PedrameFaraji\source\repos\Pedramefaraji\Rabbitmq\Rabbitmq.Producer\obj\Debug\net5.0\Rabbitmq.Producer.pdb
+C:\Users\PedrameFaraji\source\repos\Pedramefaraji\Rabbitmq\Rabbitmq.Producer\obj\Debug\net5.0\Rabbitmq.Producer.genruntimeconfig.cache

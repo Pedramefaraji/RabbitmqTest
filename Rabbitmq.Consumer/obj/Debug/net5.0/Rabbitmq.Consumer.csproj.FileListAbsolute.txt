@@ -1,0 +1,15 @@
+C:\Users\PedrameFaraji\source\repos\Pedramefaraji\Rabbitmq\Rabbitmq.Consumer\bin\Debug\net5.0\Rabbitmq.Consumer.exe
+C:\Users\PedrameFaraji\source\repos\Pedramefaraji\Rabbitmq\Rabbitmq.Consumer\bin\Debug\net5.0\Rabbitmq.Consumer.deps.json
+C:\Users\PedrameFaraji\source\repos\Pedramefaraji\Rabbitmq\Rabbitmq.Consumer\bin\Debug\net5.0\Rabbitmq.Consumer.runtimeconfig.json
+C:\Users\PedrameFaraji\source\repos\Pedramefaraji\Rabbitmq\Rabbitmq.Consumer\bin\Debug\net5.0\Rabbitmq.Consumer.runtimeconfig.dev.json
+C:\Users\PedrameFaraji\source\repos\Pedramefaraji\Rabbitmq\Rabbitmq.Consumer\bin\Debug\net5.0\Rabbitmq.Consumer.dll
+C:\Users\PedrameFaraji\source\repos\Pedramefaraji\Rabbitmq\Rabbitmq.Consumer\bin\Debug\net5.0\Rabbitmq.Consumer.pdb
+C:\Users\PedrameFaraji\source\repos\Pedramefaraji\Rabbitmq\Rabbitmq.Consumer\bin\Debug\net5.0\RabbitMQ.Client.dll
+C:\Users\PedrameFaraji\source\repos\Pedramefaraji\Rabbitmq\Rabbitmq.Consumer\obj\Debug\net5.0\Rabbitmq.Consumer.csprojAssemblyReference.cache
+C:\Users\PedrameFaraji\source\repos\Pedramefaraji\Rabbitmq\Rabbitmq.Consumer\obj\Debug\net5.0\Rabbitmq.Consumer.AssemblyInfoInputs.cache
+C:\Users\PedrameFaraji\source\repos\Pedramefaraji\Rabbitmq\Rabbitmq.Consumer\obj\Debug\net5.0\Rabbitmq.Consumer.AssemblyInfo.cs
+C:\Users\PedrameFaraji\source\repos\Pedramefaraji\Rabbitmq\Rabbitmq.Consumer\obj\Debug\net5.0\Rabbitmq.Consumer.csproj.CoreCompileInputs.cache
+C:\Users\PedrameFaraji\source\repos\Pedramefaraji\Rabbitmq\Rabbitmq.Consumer\obj\Debug\net5.0\Rabbitmq.Consumer.csproj.CopyComplete
+C:\Users\PedrameFaraji\source\repos\Pedramefaraji\Rabbitmq\Rabbitmq.Consumer\obj\Debug\net5.0\Rabbitmq.Consumer.dll
+C:\Users\PedrameFaraji\source\repos\Pedramefaraji\Rabbitmq\Rabbitmq.Consumer\obj\Debug\net5.0\Rabbitmq.Consumer.pdb
+C:\Users\PedrameFaraji\source\repos\Pedramefaraji\Rabbitmq\Rabbitmq.Consumer\obj\Debug\net5.0\Rabbitmq.Consumer.genruntimeconfig.cache
